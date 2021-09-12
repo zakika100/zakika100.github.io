@@ -173,9 +173,9 @@ body {
 	--text-link: #0067e0;
   --channels-default: #1f1f1f;
   --interactive-normal: #999999;
-	--interactive-hover: #2e3338;
-	--interactive-active: blue;
-	--interactive-muted: #8f99a3;
+	--interactive-hover: #0000FF
+	--interactive-active: #0000FF
+	--interactive-muted: #0000FF
 	--bd-blue: var(--dplus-accent-ui) !important;
 	--background-accent: var(--dplus-accent-ui);
 }
