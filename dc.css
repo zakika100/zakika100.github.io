@@ -1,4 +1,3 @@
-
 @import url(https://plusinsta.xyz/discord-plus/assets/plugins.css);
 @import url(https://plusinsta.xyz/discord-plus/assets/extras.css);
 /* Main fonts */
@@ -171,11 +170,11 @@ body {
 	--text-normal: #000;
 	--text-muted: #747f8d;
 	--text-link: #0067e0;
-  --channels-default: ##0000FF;
-  --interactive-normal: ##0000FF;
-	--interactive-hover: #0000FF
-	--interactive-active: #0000FF
-	--interactive-muted: #0000FF
+  --channels-default: #1f1f1f;
+  --interactive-normal: #1f1f1f;
+	--interactive-hover: #2e3338;
+	--interactive-active: black;
+	--interactive-muted: #8f99a3;
 	--bd-blue: var(--dplus-accent-ui) !important;
 	--background-accent: var(--dplus-accent-ui);
 }
@@ -1926,3 +1925,16 @@ html[style^="font-size: 93.75%;"] { --chat-font-scaling: 0.9375; }
 	border-radius: var(--dplus-radius-ui) !important;
 	margin: calc(var(--dplus-spacing-ui) / 2) !important;
 }
+© 2021 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+Loading complete
